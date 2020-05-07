@@ -224,7 +224,7 @@ def seven(input):
 
 def eight(input):
 	ans = 1
-	for i in range(1,(num + 1)):
+	for i in range(1,(input + 1)):
 		ans = ans * 1
 		return ans
 
